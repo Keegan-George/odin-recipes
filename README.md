@@ -8,5 +8,5 @@ otherwise) acquired up to this point.
 
 ## Credits:
 * Yanikie Tucker | Baked Macaroni and Cheese (https://jamdownfoodie.com/baked-macaroni-and-cheese-2)
-*  Holly Nilsson | Creamy Seafood Chowder (https://www.spendwithpennies.com/creamy-seafood-chowder)
-*         Marzia | Finger Lickin’ Butter Chicken (Murgh Makhani) (https://littlespicejar.com/finger-lickin-butter-chicken-murgh-makhani)    
+* Holly Nilsson | Creamy Seafood Chowder (https://www.spendwithpennies.com/creamy-seafood-chowder)
+* Marzia | Finger Lickin’ Butter Chicken (Murgh Makhani) (https://littlespicejar.com/finger-lickin-butter-chicken-murgh-makhani)    
