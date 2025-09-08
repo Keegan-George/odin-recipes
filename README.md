@@ -1,12 +1,10 @@
-# odin-recipes
+# Odin Recipes
 
 ## Background
- It is the first project of the Odin Project course. It is a 
-recipes websites. It comes at the conclusion of the HTML 
-Foundations section and will test all of the skills (HTML and 
-otherwise) acquired up to this point.
+This is the first of the Odin Project assignments. A simple recipe website. 
+This comes at the conclusion of the HTML Foundations section and tests all of the HTML and Git knowledge acquired to this point. 
 
-## Credits:
+## Recipe Sources:
 * Yanikie Tucker | Baked Macaroni and Cheese (https://jamdownfoodie.com/baked-macaroni-and-cheese-2)
 * Holly Nilsson | Creamy Seafood Chowder (https://www.spendwithpennies.com/creamy-seafood-chowder)
 * Marzia | Finger Lickin’ Butter Chicken (Murgh Makhani) (https://littlespicejar.com/finger-lickin-butter-chicken-murgh-makhani)    
